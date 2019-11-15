@@ -1,0 +1,1 @@
+# bash-public-git
